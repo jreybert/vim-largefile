@@ -1,0 +1,1 @@
+LargeFile.vba.gz: call delete('/tmp/large//plugin/LargeFile.vim')|call delete('/tmp/large//doc/LargeFile.txt')
